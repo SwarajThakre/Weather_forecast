@@ -1,48 +1,60 @@
-# 🌦️ Weather App
+# 🌦️ Weather Forecast
 
-A simple and responsive **Weather Application** built using **HTML, CSS, and JavaScript** that allows users to search for any city and view real-time weather information.
+A simple and responsive **Weather Forecast Web Application** built using **HTML, CSS, and JavaScript**.
+The application allows users to check weather conditions using a clean interface and weather icons.
 
-The application fetches weather data from a public weather API and displays key information such as **temperature, humidity, wind speed, and weather conditions**.
+This project demonstrates frontend development skills such as **UI design, DOM manipulation, and handling weather data for display**.
 
 ---
 
 ## 🚀 Features
 
-* 🌍 Search weather by city name
-* 🌡️ Displays current temperature
-* 💧 Shows humidity level
-* 🌬️ Wind speed information
-* 🌤️ Weather condition icons
-* 📱 Fully responsive design
-* ⚡ Real-time weather data using API
+* 🌍 Search weather by location
+* 🌡️ Displays temperature information
+* ☁️ Weather condition icons
+* 💧 Humidity indicator
+* 🌧️ Rain / cloud indicators
+* 📱 Responsive design
+* ⚡ Fast lightweight frontend application
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **HTML5** – Structure of the application
-* **CSS3** – Styling and responsive layout
-* **JavaScript (ES6)** – API calls and DOM manipulation
-* **Weather API** – Fetching real-time weather data
+* **HTML5** – Structure of the website
+* **CSS3** – Styling and layout
+* **JavaScript (ES6)** – Logic and DOM manipulation
 
 ---
 
 ## 📂 Project Structure
 
 ```
-Weather_forecast │ ├── images │ └── icons │ ├── icons8-list-24.png │ ├── icons8-partly-cloudy-day-30.png │ ├── icons8-rain-cloud-32.png │ └── umbrella.png │ ├── index.html ├── style.css ├── .gitignore └── README.md
+Weather_forecast
+│
+├── images
+│   └── icons
+│       ├── icons8-list-24.png
+│       ├── icons8-partly-cloudy-day-30.png
+│       ├── icons8-rain-cloud-32.png
+│       └── umbrella.png
+│
+├── index.html
+├── style.css
+├── .gitignore
+└── README.md
 ```
 
 ---
 
 ## 🌐 Live Demo
 
-(Add your deployed link here)
+(Add your deployed website link here)
 
 Example:
 
 ```
-https://weather-app-demo.netlify.app
+https://weather-report-sites.netlify.app/
 ```
 
 ---
@@ -52,8 +64,8 @@ https://weather-app-demo.netlify.app
 To run this project locally:
 
 ```bash
-git clone https://github.com/your-username/weather-app.git
-cd weather-app
+git clone https://github.com/SwarajThakre/Weather_forecast.git
+cd Weather_forecast
 ```
 
 Then open:
@@ -73,24 +85,20 @@ Example:
 ```
 ## Screenshots
 
-### Weather Search
-![Weather Search](screenshots/weather-search.png)
-
-### Weather Result
-![Weather Result](screenshots/weather-result.png)
+### Weather Interface
+![Weather UI](screenshots/weather-ui.png)
 ```
 
 ---
 
 ## 📚 Learning Goals
 
-This project was built to practice:
+This project was created to practice:
 
-* Working with **REST APIs**
-* Using **Fetch API** in JavaScript
-* **DOM manipulation**
-* Building responsive UI with **HTML and CSS**
-* Creating real-world JavaScript projects
+* Building responsive UI with **HTML & CSS**
+* **JavaScript DOM manipulation**
+* Structuring frontend projects
+* Working with UI icons and components
 
 ---
 
